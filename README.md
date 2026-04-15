@@ -1,119 +1,167 @@
 <h1 align="center">Hi 👋, I'm Youssef Ragheb</h1>
-<h3 align="center">Front-End Developer | React.js | Future Full-Stack Engineer 🚀</h3>
 
 <p align="center">
-  I build modern, scalable, and user-focused web applications.<br/>
-  Strong foundation in Computer Science fundamentals from variables to algorithms.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Strong+CS+Foundation;Building+Scalable+Real+World+Apps" />
+</p>
+
+<p align="center">
+  🚀 Full-Stack Developer with strong Computer Science fundamentals, building scalable and real-world applications.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoeRagheb29&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-00F7FF?style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Front-End Developer specialized in **React.js**
-- 🔄 Currently learning **Back-End (Node.js & Express)**
-- 🧠 Solid understanding of **Computer Science fundamentals**
-- 🎯 Goal: Become a **Full-Stack Engineer**
-- ⚡ I build real-world projects, not just tutorials
-
----
-
-## 🧠 Computer Science Foundation
-
-I have a strong foundation in:
-
-- Variables & Data Types  
-- Control Structures  
-- Functions & Problem Solving  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
+- 🎓 Computer Science Student @ Ain Shams University (2023–2027)
+- 💻 Full-Stack Developer (**React.js | Next.js | Node.js**)
+- 🧠 Strong foundation from **Variables → Algorithms → Systems**
+- ⚡ Built multiple scalable real-world systems
+- 🎯 Targeting **Full-Stack / Backend roles**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Back-End
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🧰 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,ts,git,github" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-### 🖥️ Operating System (OS Project)
-- Simulated core OS concepts and system behavior  
-- Worked with low-level logic and system design  
+## 🚀 Featured Projects
 
 ---
 
-### 💾 File Organization System (FOS)
-- Implemented file handling and storage logic  
-- Focused on efficiency and structure  
+### 🎯 Attendance Management System (Full-Stack)
+
+🔗 **Live Demo:** https://event-attendance-system-three.vercel.app/
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x300?text=Attendance+System" />
+</p>
+
+- ⚙️ Full CRUD system for members & sessions  
+- 🔍 High-speed search & filtering system  
+- 📊 Personalized dashboards with analytics  
+- 🛡️ JWT Authentication & secure REST APIs  
+- 🗄️ Migrated SQLite → PostgreSQL for scalability  
+- 🎨 Modern UI (Dark/Light mode + smooth UX)  
+
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Vercel  
 
 ---
 
-### 📘 Java Facebook System
-- Built a simplified social media system using Java  
-- Applied OOP concepts like inheritance, encapsulation, and polymorphism  
+### 🛒 Products Builder (Full-Stack)
+
+🔗 **Live Demo:** https://products-builder-seven.vercel.app/
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x300?text=Products+Builder" />
+</p>
+
+- 🧾 Full CRUD product management system  
+- 📱 Fully responsive (+10 screen sizes)  
+- 🔗 RESTful APIs (+5 endpoints)  
+- 🗃️ MongoDB integration (1000+ products)  
+
+**Tech:** React, TypeScript, Tailwind, Node.js, Express, MongoDB  
 
 ---
 
-### 📊 R Project
-- Data analysis and problem solving using R  
-- Worked with datasets and statistical concepts  
+### 🏥 Mohamed Wael Clinic Website
+
+🔗 **Live Demo:** https://joeragheb29.github.io/Clinic-Project/
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x300?text=Clinic+Website" />
+</p>
+
+- 🌐 6 pages, 18+ sections  
+- 📅 Online booking system (WordPress + PHP)  
+- 📱 95% mobile responsiveness  
+- 🎯 Clean UI/UX design  
 
 ---
 
-### 🛒 Product Builders
-A full CRUD product management app:
+### 🧠 Product Management System (CRUD)
 
-- Add / Edit / Delete products  
-- Dynamic UI updates  
+🔗 **Live Demo:** https://joeragheb29.github.io/Product-Management-System/
 
-**Tech Stack:** React.js, Node.js, Express.js  
+<p align="center">
+  <img src="https://via.placeholder.com/700x300?text=CRUD+System" />
+</p>
+
+- 📦 Managed 1000+ products  
+- 🔍 Search by title & category  
+- ⚡ 40% faster rendering performance  
+
+**Tech:** JavaScript, HTML, CSS, Bootstrap  
 
 ---
 
-### 🌐 Portfolio & Landing Pages
-- Responsive modern UI  
-- Clean and reusable components  
+### 🚀 Astro Phoenix – NASA Space Apps
+
+- 🌍 Hackathon project (Team of 6)  
+- 🧩 Interactive web platform + game  
+- 🛰️ Solved Galactic Challenge problem  
 
 ---
 
-## 📈 Currently Working On
+## 🧠 Computer Science & Skills
 
-- 🔥 Advanced **React & State Management**
-- ⚙️ Full-Stack development with **Node.js**
-- 🎨 Improving **UI/UX Design**
+### 💻 Programming
+- C++, Java, Python, JavaScript  
+
+### 📚 CS Knowledge
+- Data Structures & Algorithms  
+- OOP  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+- AI & Machine Learning Basics  
+
+### 🧰 Tools
+- Git, GitHub, VS Code  
+- Linux (Ubuntu, Kali, Arch)  
+
+---
+
+## 👨‍🏫 Leadership & Experience
+
+### 🏆 Head of Front-End Committee – MSP Tech Club
+- Leading front-end team & mentoring developers  
+- Delivering sessions & workshops  
+- Code reviews & debugging  
+
+### 🎓 Vice Head – Innovation Club
+- Organized workshops & taught students  
+
+### 🛠️ Technical Support – MAM
+- Helped 250+ students in development  
+- Debugging & project evaluation  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoeRagheb29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeRagheb29&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeRagheb29&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeRagheb29&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/youssef-ragheb">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -126,6 +174,6 @@ A full CRUD product management app:
 
 ## ⭐ Final Note
 
-> "From fundamentals to real-world systems — I build with understanding, not just code."
+> I don’t just build projects — I build systems with strong foundations.
 
-Thanks for visiting my profile 🚀
+🚀 Always learning. Always leveling up.
